@@ -1,0 +1,12 @@
+{
+  "name": "ch3",
+  "version": "1.0.0",
+  "description": "[Video Link](https://www.youtube.com/watch?v=ofWiYvbof_M&list=PLbGui_ZYuhiiSVvVP_9w57-aU7kx_H9bu&index=9)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
